@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "mobileapp",
-    "slug": "mobileapp",
+    "name": "Crypto-Frontend",
+    "slug": "cryptoFrontend",
+    "privacy": "public",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/ui.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/ui.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
